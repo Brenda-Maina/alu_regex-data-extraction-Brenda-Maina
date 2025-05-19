@@ -18,7 +18,7 @@ Open a terminal or command prompt.
 
 Clone the repository:
 
-git clone https://github.com/evand3rr/alu_regex-data-extraction-evand3rr.git
+git clone https://github.com/Brenda-Maina/alu_regex-data-extraction-Brenda-Maina.git
 Navigate into the project directory:
 
 cd alu_regex-data-extraction-evand3rr
